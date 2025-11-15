@@ -36,4 +36,3 @@ Note: images are stored in the repository root; you can organize them into an `a
 
 View the repository on GitHub for full file listing and downloads:
 https://github.com/DikshaP-2506/AmazonCloneBasic/tree/main
-```
